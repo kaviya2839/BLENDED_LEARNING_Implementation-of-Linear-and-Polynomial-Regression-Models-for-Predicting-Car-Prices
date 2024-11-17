@@ -1,5 +1,5 @@
 # BLENDED_LEARNING
-# EXP-02 Implementation-of-Linear-and-Polynomial-Regression-Models-for-Predicting-Car-Prices
+# EXP-02 Implementation of Linear and Polynomial Regression Models for Predictin Car Prices
 
 ## AIM:
 To write a program to predict car prices using Linear Regression and Polynomial Regression models.
